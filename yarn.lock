@@ -7956,10 +7956,10 @@ merkle-patricia-tree@^4.2.2, merkle-patricia-tree@^4.2.4:
     readable-stream "^3.6.0"
     semaphore-async-await "^1.5.1"
 
-merkletreejs@^0.2.32:
-  version "0.2.32"
-  resolved "https://registry.yarnpkg.com/merkletreejs/-/merkletreejs-0.2.32.tgz#cf1c0760e2904e4a1cc269108d6009459fd06223"
-  integrity sha512-TostQBiwYRIwSE5++jGmacu3ODcKAgqb0Y/pnIohXS7sWxh1gCkSptbmF1a43faehRDpcHf7J/kv0Ml2D/zblQ==
+merkletreejs@^0.3.0:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/merkletreejs/-/merkletreejs-0.3.3.tgz#ec527079a230bae0fb9b0693844d6384945d7c09"
+  integrity sha512-u17CAmpQq0sv5BoLX9X9ciZ5ps/Bk3YnGD5O7MiHnOHgWkXPg8Mxa8NSs+VS/XVAfBYkewhSnA5VnNzaYoZe8Q==
   dependencies:
     bignumber.js "^9.0.1"
     buffer-reverse "^1.0.1"
