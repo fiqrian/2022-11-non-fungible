@@ -61,7 +61,7 @@
     "@openzeppelin/contracts": "4.4.1",
     "@openzeppelin/contracts-upgradeable": "^4.6.0",
     "@types/chai-almost": "^1.0.1",
-    "@types/yargs": "^17.0.7",
+    "@types/yargs": "^17.0.14",
     "chai-almost": "^1.0.1",
     "eslint-config-typestrict": "^1.0.2",
     "eslint-plugin-no-only-tests": "^2.6.0",
