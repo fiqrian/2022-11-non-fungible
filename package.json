@@ -73,7 +73,7 @@
     "ganache-cli": "^6.12.2",
     "hardhat-tracer": "^1.1.0-rc.6",
     "lodash": "^4.17.21",
-    "merkletreejs": "^0.2.32",
+    "merkletreejs": "^0.3.11",
     "ts-essentials": "^9.1.2",
     "yargs": "^17.3.0"
   },
