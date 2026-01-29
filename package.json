@@ -72,7 +72,7 @@
     "ethereumjs-util": "^7.1.4",
     "ganache-cli": "^6.12.2",
     "hardhat-tracer": "^1.1.0-rc.6",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "merkletreejs": "^0.2.32",
     "ts-essentials": "^9.1.2",
     "yargs": "^17.3.0"
